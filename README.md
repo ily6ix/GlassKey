@@ -13,7 +13,7 @@
   - **Employee**: View and update profile
 - 📚 JPA for database persistence
 - 🛡️ Password hashing for secure credentials
-- 📧 (Optional) Email/OTP verification
+- 📧 Email/OTP verification
 
 ---
 
