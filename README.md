@@ -18,22 +18,7 @@
 ---
 
 ## 📂 Project Structure
-src/
-├── entity/
-│ └── User.java
-├── controller/
-│ └── AuthController.java
-├── service/
-│ └── UserService.java
-├── dao/
-│ └── UserDAO.java
-├── web/
-│ ├── login.jsp
-│ ├── dashboard.jsp
-│ ├── admin/
-│ └── manager/
-resources/
-└── META-INF/persistence.xml
+...
 
 
 ---
